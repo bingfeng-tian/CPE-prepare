@@ -1,0 +1,43 @@
+Date: 2026/11/16 Mon.
+
+## 先準備A
+    UVA 10082 — WERTYU
+    UVA 10056 — What is the Probability?
+    UVA 10041 — Vito’s family
+    UVA 10222 — Decode the mad man
+    *UVA 10684 — The jackpot
+    *UVA 374 — Big Mod
+
+## 次準備B
+    UVA 490 — Rotating Sentences
+    UVA 10189 — Minesweeper
+    UVA 10415 — Eb Alto Saxophone Player
+    *UVA 10066 — The Twin Towers
+
+## 後準備C
+    UVA 118 — Mutant Flatworld Explorers (機器人)
+    *UVA 10004 — Bicoloring
+
+
+## 
+### 一星題目（8題裡面會出6題）
+    UVA 10082 — WERTYU
+    UVA 10056 — What is the Probability?
+    UVA 118 — Mutant Flatworld Explorers
+    UVA 490 — Rotating Sentences
+    UVA 10189 — Minesweeper
+    UVA 10415 — Eb Alto Saxophone Player
+    UVA 10041 — Vito’s family
+    UVA 10222 — Decode the mad man
+
+### 二星題目（6題裡面會出3題）
+    UVA 10684 — The jackpot
+    UVA 10004 — Bicoloring
+    UVA 540 — Team Queue
+    UVA 374 — Big Mod
+    UVA 536 — Tree Recovery
+    UVA 10066 — The Twin Towers
+
+Week 10 OJ 密碼 ：1783174
+
+Week 7 OJ 密碼：TTY666
