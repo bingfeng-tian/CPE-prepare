@@ -9,3 +9,7 @@
 
     // print the char
     void putchar(char)
+
+## Stdlib.h
+
+    qsort(arr,index,size,cmp);
